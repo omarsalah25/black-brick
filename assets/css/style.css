@@ -2698,6 +2698,7 @@ E. Responsive
 
 @media (max-width: 47.9375rem) {
     #hero .navbar{
+        background-color: #000;
         padding: 2.5rem 3.5rem 2.5rem 0rem;
     }
     .navbar-logo {
@@ -2778,4 +2779,8 @@ E. Responsive
     .push-up {
         top: 0;
     }
+}
+
+.navbar-collapse{
+    padding-left: 35px;
 }
