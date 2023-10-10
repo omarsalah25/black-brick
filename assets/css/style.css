@@ -433,9 +433,9 @@ B. Classes
     overflow: hidden;
 }
 
-.block .block__title {
+/* .block .block__title {
     margin-bottom: 10rem;
-}
+} */
 
 .block .block__title h2 {
     margin-bottom: 2rem;
